@@ -25,6 +25,10 @@ I'm a backend-focused software engineer passionate about building systems that a
 
 My foundation is in **Java** and **Spring Boot**, where I design and implement RESTful APIs, model domain logic with discipline, and apply architectural patterns that keep codebases clean as they grow. I also work with **C++** for performance-critical contexts, which has sharpened my understanding of how software behaves at a lower level — memory, efficiency, and precision.
 
+I use **Python** as my primary tool for task automation — building scripts and workflows that eliminate repetitive manual processes, integrate systems, and improve operational efficiency. From file processing pipelines to scheduled jobs and data handling routines, Python is where I turn friction into flow.
+
+With **Go**, my focus is on designing ecosystems of **microservices and event-driven architectures** — lightweight, concurrent services that communicate reliably through events and queues. Go's simplicity and performance make it a natural fit for building the kind of distributed infrastructure that scales without becoming a maintenance burden.
+
 Beyond writing code, I have a strong interest in **Quality Engineering**: I believe that testing is not a phase, it's a mindset. Automating quality checks, validating behavior at multiple layers, and building confidence in every release is part of how I approach every project.
 
 I'm in the early stages of my career, but I bring a professional discipline that goes beyond seniority — I study architecture, follow engineering principles, and consistently push for code that communicates intent clearly.
