@@ -37,6 +37,8 @@ I'm in the early stages of my career, but I bring a professional discipline that
 
 ![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -49,6 +51,17 @@ I'm in the early stages of my career, but I bring a professional discipline that
 ![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite3-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Artificial Intelligence**
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat-square&logo=googlebrain&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-0A0A0A?style=flat-square&logo=openai&logoColor=white)
+
 ---
 
 ## ⚡ Experience & Specialties
@@ -59,6 +72,8 @@ I'm in the early stages of my career, but I bring a professional discipline that
 | 🧪 **Quality Assurance** | Unit & integration testing, test automation, regression coverage |
 | ⚙️ **Task Automation** | Scripting repetitive workflows, CI-friendly pipelines |
 | 🏗️ **Systems Architecture** | SOLID principles, design patterns, scalable service design |
+| 🗄️ **Database Engineering** | Relational modeling, query optimization, schema design |
+| 🤖 **Artificial Intelligence** | AI integration in backend systems, ML pipeline fundamentals |
 | 🚀 **Performance** | Low-level thinking from C++, efficient backend design |
 | 🧹 **Clean Code** | Readable, maintainable, and purposefully structured code |
 
@@ -66,11 +81,14 @@ I'm in the early stages of my career, but I bring a professional discipline that
 
 ## 🎯 Currently Working On
 
-- 🍃 Deepening expertise in **Spring Boot 3** — security, observability, and microservice patterns  
-- 🧪 Expanding **QA skills** — contract testing, load testing, test pyramid strategy  
-- 🔬 Exploring **Java 17+ features** — records, sealed classes, pattern matching  
-- 📐 Studying **software architecture** — DDD, hexagonal architecture, clean architecture  
-- 🐳 Getting production-ready with **Docker** and containerized environments  
+- 🍃 Deepening expertise in **Spring Boot 3** — security, observability, and microservice patterns
+- 🐍 Building automation tools and AI scripts with **Python**
+- 🐹 Exploring **Go** for high-performance, concurrent backend services
+- 🗄️ Advancing **PostgreSQL** skills — indexing, transactions, and query planning
+- 🤖 Integrating **AI capabilities** into real-world backend applications
+- 🧪 Expanding **QA skills** — contract testing, load testing, test pyramid strategy
+- 📐 Studying **software architecture** — DDD, hexagonal architecture, clean architecture
+- 🐳 Getting production-ready with **Docker** and containerized environments
 
 ---
 
@@ -79,7 +97,7 @@ I'm in the early stages of my career, but I bring a professional discipline that
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=VictorSofEngineer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSofEngineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSofEngineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
 
@@ -93,7 +111,7 @@ I'm in the early stages of my career, but I bring a professional discipline that
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-martins-duarte-66b08226a/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Send_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorhugomartinsduarte@gmail.com)
 
