@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 316" width="560" height="316" font-family="'Fira Code','JetBrains Mono','SF Mono',Consolas,monospace">
+
+  <defs>
+    <clipPath id="win"><rect x="1" y="1" width="558" height="314" rx="10"/></clipPath>
+
+    <clipPath id="w1"><rect x="0" y="52"  width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;162;162;0;0" keyTimes="0;0.04;0.12;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w2"><rect x="0" y="78"  width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.14;0.16;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w3"><rect x="0" y="104" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.17;0.19;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w4"><rect x="0" y="130" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.20;0.22;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w5"><rect x="0" y="166" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;261;261;0;0" keyTimes="0;0.28;0.41;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w6"><rect x="0" y="192" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.44;0.46;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w7"><rect x="0" y="218" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.48;0.50;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w8"><rect x="0" y="244" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.75;0.77;0.90;0.94;1"/></rect></clipPath>
+    <clipPath id="w9"><rect x="0" y="218" width="0" height="26"><animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;560;560;0;0" keyTimes="0;0.72;0.74;0.90;0.94;1"/></rect></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="314" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <g clip-path="url(#win)">
+    <rect x="0" y="0" width="560" height="36" fill="#161B22"/>
+    <line x1="0" y1="36" x2="560" y2="36" stroke="#30363D" stroke-width="1"/>
+  </g>
+
+  <circle cx="22" cy="18" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="62" cy="18" r="6" fill="#27C93F"/>
+  <text x="280" y="23" font-size="13" fill="#8B949E" text-anchor="middle">victor@github: ~/projects</text>
+
+  <g font-size="15">
+
+    <g clip-path="url(#w1)">
+      <text x="20" y="70" fill="#39D353">$</text>
+      <text x="38" y="70" fill="#C9D1D9">go run ./cmd/api</text>
+    </g>
+
+    <g clip-path="url(#w2)">
+      <text x="38" y="96" fill="#39D353">&#9656;</text>
+      <text x="58" y="96" fill="#8B949E">http listener</text>
+      <text x="260" y="96" fill="#39D353">:8080</text>
+    </g>
+
+    <g clip-path="url(#w3)">
+      <text x="38" y="122" fill="#39D353">&#9656;</text>
+      <text x="58" y="122" fill="#8B949E">postgres pool</text>
+      <text x="260" y="122" fill="#39D353">ready</text>
+    </g>
+
+    <g clip-path="url(#w4)">
+      <text x="38" y="148" fill="#39D353">&#9656;</text>
+      <text x="58" y="148" fill="#8B949E">event workers</text>
+      <text x="260" y="148" fill="#39D353">ready</text>
+    </g>
+
+    <g clip-path="url(#w5)">
+      <text x="20" y="184" fill="#39D353">$</text>
+      <text x="38" y="184" fill="#C9D1D9">python train.py --epochs 50</text>
+    </g>
+
+    <g clip-path="url(#w6)">
+      <text x="38" y="210" fill="#39D353">&#9656;</text>
+      <text x="58" y="210" fill="#8B949E">dataset loaded</text>
+      <text x="260" y="210" fill="#39D353">12.4k rows</text>
+    </g>
+
+    <g clip-path="url(#w7)">
+      <text x="38" y="236" fill="#39D353">&#9656;</text>
+      <text x="58" y="236" fill="#8B949E">training</text>
+      <rect x="260" y="226" width="120" height="11" rx="2" fill="#21262D"/>
+    </g>
+
+    <rect x="260" y="226" width="0" height="11" rx="2" fill="#39D353">
+      <animate attributeName="width" dur="10s" repeatCount="indefinite" values="0;0;120;120;0;0" keyTimes="0;0.50;0.72;0.90;0.94;1"/>
+    </rect>
+
+    <g clip-path="url(#w9)">
+      <text x="392" y="236" fill="#39D353">100%</text>
+    </g>
+
+    <g clip-path="url(#w8)">
+      <text x="38" y="262" fill="#39D353">&#9656;</text>
+      <text x="58" y="262" fill="#8B949E">accuracy</text>
+      <text x="260" y="262" fill="#39D353">0.94</text>
+    </g>
+
+    <text x="20" y="294" fill="#39D353">$</text>
+    <rect x="38" y="282" width="9" height="17" fill="#39D353">
+      <animate attributeName="opacity" dur="1.1s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.5;1" calcMode="discrete"/>
+    </rect>
+
+  </g>
+</svg>
