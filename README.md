@@ -110,7 +110,7 @@ Early in my journey, but disciplined: I study architecture, follow engineering p
   GitHub e não depende de nenhum serviço externo — não tem como quebrar.
 -->
 
-<img width="100%" src="./profile/terminal.svg" alt="Terminal session: Go service starting up and a Python training run" />
+<img width="100%" src="./terminal.svg" alt="Terminal session: Go service starting up and a Python training run" />
 
 ---
 
